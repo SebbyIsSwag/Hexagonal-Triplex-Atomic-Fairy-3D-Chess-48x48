@@ -1,0 +1,66 @@
+1.	The board is hexagonal with 48 ranks, 48 files, and 48 levels.
+2.	Each player starts with the following pieces:
+4k1r1/3n1na1/3m1m1c1/llSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSssssssssssssssssssssssssssssssss/1w1w1w1w1w1w1w1w1w1w1/1pppppppppppppppppppppPPPPPPPPPPPPPPPPPPPPP/PPPPPPPPPPPPPPPPPPPPP1W1W1W1W1W1W1W1W1W1W1W1W1W1W1W1W1W1W/LLGECGGECEHCRCBNQKBNRCXGHEDMMXCBNQBNRCGCEGGECEHCRC/LLGECGGECEHCRCBNQBNRCXGHEDMMXCBNQKBNRCGCEGGECEHCRC/1W1W1W1W1W1W1W1W1W1W1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1w1
+•	2 Emperors (represented by "R")
+•	2 Empresses (represented by "E")
+•	2 Royal Amazons (represented by "c")
+•	2 Falcons (represented by "K")
+•	2 Hunters (represented by "J")
+•	2 Cardinals (represented by "C")
+•	2 Giraffes (represented by "g")
+•	2 Camels (represented by "m")
+•	2 Elephants (represented by "A")
+•	2 Worms (represented by "W")
+•	2 Unicorns (represented by "U")
+•	2 War Machines (represented by "w")
+•	2 Assassins (represented by "e")
+•	2 Coiled Snakes (represented by "S")
+•	2 Dragons (represented by "d")
+•	2 Ducks (represented by "u")
+•	2 Ferzes (represented by "F")
+•	2 Gnu (represented by "z")
+•	2 Horsies/Ponies (represented by "h")
+•	2 Low Counsels (represented by "L")
+•	2 Machines (represented by "f")
+•	2 Pawns (represented by "s" for black and "S" for white)
+•	2 2-square forward pawns (represented by "p")
+•	2 En passant pawns (represented by "E")
+•	2 Berolina pawns (represented by "s" for black and "S" for white)
+•	2 Cannons (represented by "x")
+•	2 Cannon+Amazon compounds (represented by "y")
+•	2 Bricks (represented by "k")
+•	1 Antiking (represented by "!" for white and "£" for black)                         
+2.	The Antiking is a unique piece that cannot be captured and moves like a king, but is considered in check when it is not attacked. The objective of the game is to capture the opposing king and royal amazon and make sure you cannot attack the antiking.
+3.	Each player takes turns moving one piece at a time, with the player controlling the white pieces going first.
+4.	Pieces move according to their individual movement rules, as described in the previous section.
+5.	A player can capture an opposing piece by moving one of their own pieces to the square occupied by the opposing piece. The captured piece is removed from the board and the capturing piece takes its place.
+6.	Pieces do not have to move in order to capture, as long as they could legally move to the square occupied by the opposing piece if they did move.
+7.	Pawns have the option to promote to any piece except for a king when they reach the eighth rank.
+8.	En passant captures are allowed for one turn after an opposing en passant pawn moves two squares from its starting position and lands next to an opposing en passant pawn on the same file.
+9.	The game ends when one player captures the opposing Antiking.
+10.	If a player's Antiking is in checkmate (cannot move to a position where it is attacked), the game is over and they lose.
+11.	If the same position occurs three times with the same player to move, the game is a draw.
+12.	Players may agree to a draw at any time.
+13.	Castling is allowed at all times.
+•	If a player's king is in check, they must move their king out of check or block the attack with another piece. If this is not possible, the player is checkmated and loses the game.
+•	If a player's king is not in check, but they have no legal move, the game is a stalemate and ends in a draw.
+•	If a player's move results in their opponent's king being captured, the game ends immediately and the player wins.
+•	If a player's move results in both kings being captured simultaneously, the game ends in a draw.
+•	If a player's move results in a position where the same sequence of moves can be repeated three times, the game ends in a draw.
+•	If a player's move results in a position where no capture or pawn move has occurred in the last 50 moves, the game ends in a draw.
+•	If a player touches a piece and then decides not to move it, they may not touch any other piece on the board. If a player touches an opponent's piece, they must capture that piece if it is a legal move.
+•	If a player promotes a pawn, they may choose to promote it to any piece except a king, assassin or royal amazon.
+•	In the event of an illegal move, the position must be restored to the previous legal position and the player must make a legal move.
+•	Players may agree to a draw at any time during the game.
+•	Time controls may be agreed upon before the game begins. If a player's time runs out, they lose the game.
+In addition to the standard chess pieces, the game includes the following fairy pieces:
+•	Falcon (represented by "K"): moves forward like a bishop and backward like a rook.
+•	Hunter (represented by "J"): moves forward like a rook and backward like a bishop. Ect.
+Players may also mutate their queen or knight to any piece other than the king, assassin, or royal amazon respectively.
+The board is hexagonal and is 48x48x48, and the game is played with atomic rules, which means that pieces can capture other pieces without moving to the square they occupy. Pieces can stay on their spot as long as they would be able to capture, and they don't move anywhere else. The goal of the game is to capture the opponent's king and royal amazon (And make sure you can't attack the opposing antiking).
+15. To make the game shorter, if your king, antiking and royal amazon all get to the center (24, 24, 24), (25, 24, 24), (23, 24, 24), (24, 25, 24), (24, 23, 24), (24, 24, 25), (24, 24, 23), you can also win.
+Principles
+1.	Assassin teleportation: The Assassin piece can teleport to any unoccupied square on the board, making it a powerful tool for surprise attacks and unexpected captures. It's important to keep track of where the opponent's Assassin is and be prepared for potential attacks. 2. Trading when you're up material: If you have more material than your opponent, it can be advantageous to trade pieces to simplify the position and increase your chances of winning. However, it's important to evaluate each trade carefully to make sure you're not giving up too much in return. 3. Protecting the king: Protecting your king is crucial in any game of chess, but it's especially important in Hexagonal Triplex Atomic Fairy 3D Chess where the Antiking cannot be captured and is considered in check when it is not attacked. Make sure to keep your king well defended and avoid exposing it to unnecessary risks. 4. Protecting the Royal Amazon and Cannon: The Royal Amazon and Cannon are both powerful pieces that can have a significant impact on the game. Protecting these pieces and using them effectively can 
+2.	give you a strategic advantage. 5. Controlling the center: As in traditional chess, controlling the center of the board can give you a significant advantage in Hexagonal Triplex Atomic Fairy 3D Chess. Try to occupy the central squares with your pieces and use them to control important diagonals and files. 6. Developing your pieces: Developing your pieces quickly and efficiently can give you a strong position and increase your options for attack and defense. Try to get your pieces off the back rank and into the game as soon as possible. 7. Creating threats: Creating threats and putting pressure on your opponent can force them to make defensive moves and limit their options. Look for opportunities to create threats and force your opponent to react. 8. Assassin teleportation: The Assassin piece can teleport to any unoccupied square on the board, making it a powerful tool for surprise attacks and unexpected captures. It's important to keep track of where the opponent's Assassin is and be prepared for potential attacks. 9. Trading when you're up material: If you have more material than your opponent, it can be advantageous to trade pieces to simplify the position and increase your chances of winning. However, it's important to evaluate each trade carefully to make sure you're not giving up too much in return. 10. Protecting the king: Protecting your king is crucial in any game of chess, but it's especially important in Hexagonal Triplex Atomic Fairy 3D Chess where the Antiking cannot be captured and is considered in check when it is not attacked. Make sure to keep your king well defended and avoid exposing it to unnecessary risks. 11. Protecting the Royal Amazon and Cannon: The Royal Amazon and Cannon are both powerful pieces that can have a significant impact on the game. Protecting these pieces and using them effectively can give you a strategic advantage. 12. Controlling the center: As in traditional chess, controlling the center of the board can give you a significant advantage in Hexagonal Triplex Atomic Fairy 3D Chess. Try to occupy the central squares with your pieces and use them to control important diagonals and files. 13. Developing your pieces: Developing your pieces quickly and efficiently can give you a strong position and increase your options for attack and defense. Try to get your pieces off the back rank and into the game as soon as possible. 14. Creating threats: Creating threats and putting pressure on your opponent can force them to make defensive moves and limit their options. Look for opportunities to create threats and force your opponent to react. 15. Time management: Managing your time effectively is important in any game of chess, but it can be especially challenging in Hexagonal Triplex Atomic Fairy 3D Chess with its large board and complex pieces. Make sure to budget your time wisely and avoid getting into time trouble. 16. Controlling key squares: Identifying and controlling key squares on the board can be crucial in Hexagonal Triplex Atomic Fairy 3D Chess. For example, controlling the squares in front of your opponent's pawns can limit their mobility and create weaknesses in their position. 17. Flexibility: Being flexible and adaptable to changing circumstances can help you respond to your opponent's moves and create new opportunities for attack and defense. Avoid being too attached to a specific plan or strategy and be prepared to adjust your approach as needed. 18. Analyzing the position: Analyzing the position on the board and evaluating the strengths and weaknesses of both your own position and your opponent's position can help you make informed decisions and develop an effective strategy. Consider factors such as pawn structure, piece activity, and potential threats. 19. Planning ahead: Planning ahead and anticipating your opponent's moves can give you a strategic advantage and help you control the flow of the game. Look for potential threats and opportunities and develop a plan for achieving your goals. 20. Keeping your opponent off balance: Keeping your opponent off balance and forcing them to react to your moves can limit their options and create weaknesses in their position. Look for opportunities to disrupt your opponent's plans and force them to make defensive moves. 21. Creating pawn weaknesses: Creating weaknesses in your opponent's pawn structure can limit their mobility and create targets for attack. Look for opportunities to attack isolated pawns or create pawn chains that can be exploited later in the game. 22. Mutating pieces: Mutating your pieces to other pieces can give you new and powerful options for attack and defense. Consider the strengths and weaknesses of different pieces and evaluate the potential benefits and risks of mutating a particular piece.
+Note: If it’s white that’s because it is not a rule but is best gameplay.
+
